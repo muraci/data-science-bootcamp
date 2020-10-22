@@ -14,12 +14,8 @@ Bootcamp boyunca Veri Bilimi özelinde alternatif veriler incelendi. Bu veri set
 > - Titanic: Machine Learning From Disaster
 > - Heart Disease - Cleveland Data Set
 
-Konu özelinde, proje çıktıları hazırlandı. Bu projelerde makine öğrenmesi algoritmaları ve keşifsel analiz yöntemleri uygulandı. Proje çıktıları dosya içierisinde yer almaktadır.
+Konu özelinde(regresyon, sınıflandırma ve kümeleme), proje çıktıları hazırlandı. Bu projelerde makine öğrenmesi algoritmaları ve keşifsel analiz yöntemleri uygulandı. Proje çıktıları dosya içierisinde yer almaktadır.
 
 > - Bank Marketing Data Set
 > - Concrete Compressive Strength Data Set
 > - Big Five Personality Test
-
-
-
-
